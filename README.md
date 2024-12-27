@@ -21,4 +21,21 @@ Visionary AI is an advanced tool built using Generative AI and the MERN stack (M
 3. Use the following syntax in Markdown to display the screenshot in this README file:
 
    ```markdown
-   ![Screenshot Description](screenshots/example-screenshot.png)
+  
+
+https://github.com/user-attachments/assets/dfcefe31-e9f1-48e4-9bda-70691b7685a3
+
+
+![Screenshot 2024-12-27 100402](https://github.com/user-attachments/assets/c15b78d8-04b9-4a57-b8d8-d8ddec20a885)
+   ![Screenshot 2024-12-27 100436](https://github.com/user-attachments/assets/4a037632-991a-4dd6-badd-a29b10020835)
+   ![Screenshot 2024-12-27 101459](https://github.com/user-attachments/assets/8198d529-6c12-420a-9c38-532a6af632af)
+![Screenshot 2024-12-27 101947](https://github.com/user-attachments/assets/1109963f-47f1-412f-9c17-aff0c56d3ac7)
+
+![Screenshot 2024-12-27 102139](https://github.com/user-attachments/assets/862824c6-b320-4fe6-95d9-8b17ebf8f8d8)
+
+![Screenshot 2024-12-27 102334](https://github.com/user-attachments/assets/8caa256c-400a-44b3-b497-50c2acf3e1e6)
+
+
+
+
+
